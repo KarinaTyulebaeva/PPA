@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/k.tyulebaeva/Desktop/PPA/src/main/scala/Lexer.scala:88:10: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: Error(_, _), Failure(_, _)[0m
+[0m[[0m[33mwarn[0m] [0m[0m    parse(tokens, code) match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
